@@ -66,7 +66,7 @@ This improves:
 ## 🔌 Circuit Diagram
 
 <p align="center">
-<img src="images/circuit_diagram.png" width="700"/>
+<img src="images/circuit_diagram.jpg" width="700"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ This improves:
 ## 📊 ThingSpeak Monitoring Output
 
 <p align="center">
-<img src="images/thingspeak_output.png" width="700"/>
+<img src="images/thingspeak_output.jpg" width="700"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ This improves:
 ## 📈 MATLAB Analysis Output
 
 <p align="center">
-<img src="images/matlab_analysis.png" width="700"/>
+<img src="images/matlab_analysis.jpg" width="700"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ This improves:
 ## 🖥️ Serial Monitor Output
 
 <p align="center">
-<img src="images/serial_monitor.png" width="700"/>
+<img src="images/serial_monitor.jpg" width="700"/>
 </p>
 
 ---
@@ -126,7 +126,7 @@ Predictive-Maintenance-Using-IoT/
 ├── predictive_maintenance.ino
 │
 ├── images/
-│   ├── circuit_diagram.png
-│   ├── thingspeak_output.png
-│   ├── matlab_analysis.png
-│   └── serial_monitor.png
+│   ├── circuit_diagram.jpg
+│   ├── thingspeak_output.jpg
+│   ├── matlab_analysis.jpg
+│   └── serial_monitor.jpg
